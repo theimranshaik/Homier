@@ -1,0 +1,72 @@
+   [
+  {
+    "id": 1,
+    "location": "Happy Avenue, Injapur",
+    "details": "5BHK • 7Bath • 1647Sft",
+    "price": "2.5Cr",
+    "images": ["ppi/p1.1.jpg", "ppi/p1.2.jpg", "ppi/p1.3.jpg", "ppi/p1.4.jpg", "ppi/p1.5.jpg", "ppi/p1.6.jpg", "ppi/p1.7.jpg", "ppi/p1.8.jpg", "ppi/p1.9.jpg"],
+    "moreInfo": {
+      "goodToKnow": ["Ready to move", "G+1 ind. house", "East facing", "Two parking"],
+      "amenities": ["high ventilation", "Good light", "Spacious road"],
+      "nearby": ["Supermarket (500 m)", "Delhi public School (1 km)"],
+      "legals": ["Rera approved", "Hydra safe"]
+    }
+  },
+  {
+    "id": 2,
+    "location": "Srinivas Gayathrinagar, Karamghat",
+    "details": "6BHK • 6Bath • 4500Sft",
+    "price": "8.0Cr",
+    "images": ["ppi/p2.1.jpg", "ppi/p2.2.jpg", "ppi/p2.3.jpg", "ppi/p2.4.jpg", "ppi/p2.5.jpg", "ppi/p2.6.jpg", "ppi/p2.7.jpg", "ppi/p2.8.jpg", "ppi/p2.9.jpg", "ppi/p2.10.jpg", "ppi/p2.11.jpg", "ppi/p2.12.jpg", "ppi/p2.13.jpg", "ppi/p2.14.jpg", "ppi/p2.15.jpg", "ppi/p2.16.jpg", "ppi/p2.17.jpg", "ppi/p2.18.jpg", "ppi/p2.19.jpg", "ppi/p2.20.jpg", "ppi/p2.21.jpg", "ppi/p2.22.jpg", "ppi/p2.23.jpg", "ppi/p2.24.jpg", "ppi/p2.25.jpg", "ppi/p2.26.jpg", "ppi/p2.27.jpg", "ppi/p2.28.jpg", "ppi/p2.29.jpg", "ppi/p2.30.jpg", "ppi/p2.31.jpg", "ppi/p2.32.jpg", "ppi/p2.33.jpg", "ppi/p2.34.jpg"],
+    "moreInfo": {
+      "goodToKnow": ["Ready to move", "G+2", "East facing", "Two parking"],
+      "amenities": ["Full ventilation", "Premium Construction", "Very spacious"],
+      "nearby": ["Supermarket (500 m)", "School (1 km)", "Easy Accessibility (100m)"],
+      "legals": ["Rera approved"]
+    }
+  },
+{
+    "id": 3,
+    "location": "Bachupally Cross Road",
+    "details": "2BHK • 2Bath • 1200Sft",
+    "price": "0.67Cr",
+    "images": ["ppi/p3.1.jpg", "ppi/p3.2.jpg", "ppi/p3.3.jpg", "ppi/p3.4.jpg", "ppi/p3.5.jpg", "ppi/p3.6.jpg"],
+    "moreInfo": {
+        "goodToKnow": [
+            "Under construction",
+            "Unfurnished",
+            "1200Sft",
+            "Floor 3/5",
+            "East facing",
+            "One balcony",
+            "One parking",
+            "5583/sft",
+            "Vastu compliant"
+        ],
+        "amenities": [
+            "Club House with indoor facilities",
+            "Swimming Pools (Adult & Kids)",
+            "Walking/Jogging track",
+            "Outdoor Gym & Reflexology Pathway",
+            "Cricket Nets & Multi-purpose Court",
+            "Children’s Play Areas & Adventure Zone",
+            "Skating Rink & Event Area",
+            "Landscaped Gardens & Central Courtyard",
+            "Rainwater Harvesting & Solar Fencing",
+            "CCTV Surveillance"
+        ],
+        "nearby": [
+            "Kenedy International School (400m)",
+            "Mamata Medical College (400m)",
+            "Bachupally Signal (500m)",
+            "Silver Oaks International School (600m)",
+            "Kesava Reddy School (1200m)"
+        ],
+        "legals": ["Rera approved", "Hmda approved"]
+    }
+}
+
+]
+
+
+
